@@ -1,0 +1,6 @@
+Typ obliczen: sisd
+Liczba liczb: 2048
+Sredni czas
+:+0.281000
+-0.275000
+*0.307000
